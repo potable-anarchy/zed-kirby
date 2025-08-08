@@ -1,0 +1,13 @@
+id = "kirby-theme"
+name = "Kirby"
+description = "A dreamy pink theme inspired by Nintendo's Kirby"
+version = "1.0.0"
+schema_version = 1
+authors = ["Brad Dougherty <brad@dougherty.dev>"]
+repository = "https://github.com/potable-anarchy/zed-kirby"
+
+[extension]
+version = "1.0.0"
+
+[[extension.themes]]
+path = "themes/kirby.json"
